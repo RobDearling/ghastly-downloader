@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with: ${{ secrets.TOKEN }}
+        with: 
+          token: ${{ secrets.TOKEN }}
       - name: Run downloader script
         run: |
           chmod +x ./download.sh
