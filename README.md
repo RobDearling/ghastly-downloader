@@ -1,3 +1,5 @@
-# Ghastly Downloader
-
-Donwloads the latest revision from PokeMMO every 30 minutes.
+<br>
+<div align="center">
+    <img src="./img/logo.png"  height="160">
+    <h3 align="center">Ghastly Downloader</h3>
+</div>
